@@ -1,0 +1,21 @@
+#view{
+    width: 1400px;
+    margin-left: 4%;
+}
+
+.chunk{
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+.hehe{
+    background-color: #8ddba1;
+}
+
+body{
+    overflow: hidden;
+}
+
+#btn-generate{
+    display: none;
+}
